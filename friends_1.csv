@@ -1,2 +1,4 @@
-John,25,student
-Nate,30,teacher
+,0,1
+0,name,"['John', 'Nate']"
+1,age,"[25, 30]"
+2,job,"['student', 'teacher']"
